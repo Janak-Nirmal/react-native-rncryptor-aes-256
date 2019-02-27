@@ -20,13 +20,13 @@ The data format includes all the metadata required to securely implement AES enc
 
 ## Getting started
 
-`$ npm install react-native-rncryptor --save`
+`$ npm i react-native-rnaescryptor --save`
 
-`$ react-native link react-native-rncryptor`
+`$ react-native link react-native-rnaescryptor`
 
 ## Usage
 ```javascript
-import RNCryptor from 'react-native-rncryptor';
+import RNCryptor from 'react-native-rnaescryptor';
 
 RNCryptor.encrypt('a text', 'password').then((encryptedbase64)=>{
   console.log(encryptedbase64)
