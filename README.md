@@ -1,3 +1,7 @@
+# Copy of Below module with different package name in android to avoid collision with react native doc viewer.
+
+https://github.com/richfisher/react-native-rncryptor-aes-256#readme
+
 # React Native RNCryptor
 It's an easy-to-use library for encrypting data with AES 256 in React Native. 
 
